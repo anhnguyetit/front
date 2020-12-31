@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/front/static/css/main.9d9b7f60.chunk.css",
+    "main.js": "/front/static/js/main.5e563efc.chunk.js",
+    "main.js.map": "/front/static/js/main.5e563efc.chunk.js.map",
+    "runtime-main.js": "/front/static/js/runtime-main.8ccb349f.js",
+    "runtime-main.js.map": "/front/static/js/runtime-main.8ccb349f.js.map",
+    "static/css/2.51ea7779.chunk.css": "/front/static/css/2.51ea7779.chunk.css",
+    "static/js/2.a3d9d7db.chunk.js": "/front/static/js/2.a3d9d7db.chunk.js",
+    "static/js/2.a3d9d7db.chunk.js.map": "/front/static/js/2.a3d9d7db.chunk.js.map",
+    "static/js/3.910e470d.chunk.js": "/front/static/js/3.910e470d.chunk.js",
+    "static/js/3.910e470d.chunk.js.map": "/front/static/js/3.910e470d.chunk.js.map",
+    "index.html": "/front/index.html",
+    "static/css/2.51ea7779.chunk.css.map": "/front/static/css/2.51ea7779.chunk.css.map",
+    "static/css/main.9d9b7f60.chunk.css.map": "/front/static/css/main.9d9b7f60.chunk.css.map",
+    "static/js/2.a3d9d7db.chunk.js.LICENSE.txt": "/front/static/js/2.a3d9d7db.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/front/static/media/arrow_right.0897f985.svg",
+    "static/media/all.min.css": "/front/static/media/fa-solid-900.46fdbd2d.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ccb349f.js",
+    "static/css/2.51ea7779.chunk.css",
+    "static/js/2.a3d9d7db.chunk.js",
+    "static/css/main.9d9b7f60.chunk.css",
+    "static/js/main.5e563efc.chunk.js"
+  ]
+}
